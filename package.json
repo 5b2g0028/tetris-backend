@@ -1,0 +1,28 @@
+{
+  "name": "tetris-arcade",
+  "version": "1.0.0",
+  "description": "Tetris Arcade: 全端線上排行俄羅斯方塊與即時排行榜系統",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js"
+  },
+  "keywords": [
+    "tetris",
+    "express",
+    "mongoose",
+    "canvas",
+    "fullstack"
+  ],
+  "author": "Antigravity",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

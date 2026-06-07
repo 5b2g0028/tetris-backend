@@ -1,0 +1,16 @@
+[
+  {
+    "username": "PlayerOne",
+    "score": 1250,
+    "linesCleared": 5,
+    "createdAt": "2026-06-04T03:30:20.049Z",
+    "_id": "local_1780543820049_xwr0p"
+  },
+  {
+    "username": "GodPlayer",
+    "score": 9999,
+    "linesCleared": 40,
+    "createdAt": "2026-06-04T03:30:21.725Z",
+    "_id": "local_1780543821726_7j4q7"
+  }
+]
